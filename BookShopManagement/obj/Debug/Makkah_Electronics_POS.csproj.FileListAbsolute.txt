@@ -1,0 +1,344 @@
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\bin\Debug\MySql.Data.dll
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.AddDiscountCard.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Branch_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.AddNewUser.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.AddProducts.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddCategory.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddExpense.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddNewBook.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddStock.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_Dashboard.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_FinishOrder.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Branch.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Customers.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_DailyExpenses.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_DiscountCards.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_ManageExpense.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_ManageUser.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_ProductBrand.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_ProductCategory.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Products.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_PurchaseDetails.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Purchases.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Sales.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Suppliers.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_ViewSales.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csproj.GenerateResource.Cache
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Customer_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\BookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Supplier_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Discount_Card_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Branch_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Customer_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Brand_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Supplier_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.User_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddCategory.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Expense_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Dashboard.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Forms.Order_Finish_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Branches.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Customers.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Daily_Expenses.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Discount_Cards.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Users.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Brand.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Category.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Products.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Purchases.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Sales.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Suppliers.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csproj.GenerateResource.Cache
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\bin\Debug\MySql.Data.dll
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\BookShop-master\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\MySql.Data.dll
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Discount_Card_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Branch_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Customer_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Brand_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Supplier_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.User_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddCategory.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Expense_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Dashboard.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Branches.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Customers.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Daily_Expenses.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Discount_Cards.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Users.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Brand.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Category.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Products.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Purchases.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Suppliers.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csproj.GenerateResource.Cache
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Bank_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Banks.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Sales_Form.resources
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe.CodeAnalysisLog.xml
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe.lastcodeanalysissucceeded
+C:\Users\Muhammad Younus\Documents\Visual Studio 2015\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Sales_Finalize_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.pdb
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\MySql.Data.dll
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csprojResolveAssemblyReference.cache
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Bank_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Discount_Card_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Branch_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Customer_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Brand_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Supplier_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.User_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddCategory.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Expense_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Dashboard.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Sales_Finalize_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Banks.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Branches.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Customers.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Daily_Expenses.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Discount_Cards.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Users.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Brand.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Category.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Products.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Purchases.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Sales_Form.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Suppliers.resources
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csproj.GenerateResource.Cache
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.exe
+F:\Sharing Drive\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.pdb
+Z:\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+Z:\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.exe
+Z:\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\bin\Debug\MySql.Data.dll
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Bank_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Discount_Card_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Branch_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Customer_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Brand_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Supplier_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.User_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddCategory.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Expense_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Dashboard.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Sales_Finalize_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Banks.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Branches.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Customers.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Daily_Expenses.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Discount_Cards.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Users.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Brand.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Category.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Products.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Purchases.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Sales_Form.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Suppliers.resources
+C:\Users\Muhammad Younus\Downloads\Projects\Makkah_Electronics_POS\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csproj.GenerateResource.Cache
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\MySql.Data.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csprojResolveAssemblyReference.cache
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Bank_Form.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Branch_Form.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Customer_Form.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Brand_Form.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Supplier_Form.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.User_Form.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Form.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddCategory.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Dashboard.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Sales_Finalize_Form.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Banks.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Branches.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Customers.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Daily_Expenses.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Discount_Cards.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Users.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Brand.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Category.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Products.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Purchases.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Sales_Form.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Suppliers.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csproj.GenerateResource.Cache
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Daily_Expense_Form.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_PurchaseView.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.alert.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.ShowAddedPoints.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.ShowRedeemPoints.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.PrintDiscountCard.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.ShowSale.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.ShowOrderProductDetails.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.SaleReport.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.ProductDetails.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Purchase_Report.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Show_Purchase_Products.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.PrintDC.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.BranchInfo.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.backup.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\Bunifu.Core.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\MySqlBackup.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.editPurchase.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.editOrder.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.calculator.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.sticknote.resources
+C:\Users\Koder Spot\Desktop\Final\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\Koder Spot\Desktop\Final\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\Koder Spot\Desktop\Final\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.confirmationForm.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.exe.manifest
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\BookShopManagement.application
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.exe.manifest
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.application
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Credit.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.payingloan.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.salesreports.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.murghe.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.License.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.loading.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.CompanyWorth.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.partiallyloan.resources
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\log4net.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalReportsLib.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\FlashControlV71.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\Neodynamic.SDK.Barcode.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CRVsPackageLib.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.CrystalReports.TemplateEngine.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Koder Spot\Documents\Visual Studio 2013\Projects\Makkah_Electronics_POS\BookShopManagement\bin\Debug\ShockwaveFlashObjects.dll
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csprojAssemblyReference.cache
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.alert.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.backup.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Bank_Form.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.calculator.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.CompanyWorth.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.confirmationForm.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Daily_Expense_Form.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Branch_Form.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Customer_Form.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.editOrder.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.editPurchase.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.License.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.loading.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.murghe.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.partiallyloan.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.payingloan.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.PrintDC.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.PrintDiscountCard.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.ProductDetails.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Brand_Form.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Purchase_Report.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.SaleReport.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.salesreports.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.ShowAddedPoints.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.ShowOrderProductDetails.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.ShowRedeemPoints.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Show_Purchase_Products.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.sticknote.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Supplier_Form.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.User_Form.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Product_Form.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Form_AddCategory.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Dashboard.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Forms.Sales_Finalize_Form.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.BranchInfo.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Credit.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.ShowSale.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Banks.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Branches.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Customers.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Daily_Expenses.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Discount_Cards.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Home.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Users.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Brand.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Product_Category.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Products.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Purchases.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.Sales_Form.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_Suppliers.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.UserControls.UC_PurchaseView.resources
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csproj.GenerateResource.cache
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\Makkah_Electronics_POS.csproj.CoreCompileInputs.cache
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.exe
+E:\Makkah_Electronics_POS\BookShopManagement\obj\Debug\BookShopManagement.pdb
